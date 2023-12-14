@@ -107,7 +107,7 @@ author:
   name             : "Topical Activity Group pHs"
   avatar           : "/assets/phs_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Webpage of the TAG"
-  location         : "Somewhere"
+  location         : #"Somewhere"
   email            :
   links:
     - label: "Email"
