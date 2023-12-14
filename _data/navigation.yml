@@ -2,8 +2,8 @@
 main:
   - title: "News"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Conferences"
-  - title: "Papers"
+  - title: "Activities"
+  - title: "Topics"
   - title: "People"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
