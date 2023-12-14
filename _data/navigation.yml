@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "People"
-     url: /year-archive/
+   #  url: /year-archive/
   - title: "Activities"
   - title: "Events"
   # - title: "About"
