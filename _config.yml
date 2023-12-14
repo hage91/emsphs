@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "Topical Activity Group pHs"
   avatar           : "/assets/phs_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Webpage of the TAG"
+  bio              : "Webpage of the Activity Group"
   location         : #"Somewhere"
-  email            :
+  email            : "gernandt@uni-wuppertal.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "dddde"
+       url: "gernandt@uni-wuppertal.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
