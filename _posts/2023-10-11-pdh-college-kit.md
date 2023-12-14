@@ -1,5 +1,6 @@
 ---
 title: "Doctorate College Meeting at KIT"
+layout: single
 categories:
   - Post Formats
 tags:
