@@ -110,10 +110,10 @@ author:
   location         : #"Somewhere"
   email            : "gernandt@uni-wuppertal.de"
   links:
-    - label: "Email"
+    - label: "Contact Us"
       icon: "fas fa-fw fa-envelope-square"
        #url: "gernandt@uni-wuppertal.de"
-    - label: "Website"
+    - label: "Join Us" #Website
       icon: "fas fa-fw fa-link"
        #url: "https://your-website.com"
     - label: "Twitter"
