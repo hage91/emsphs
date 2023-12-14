@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Topical Activity Group pHs"
+  avatar           : "/assets/ems_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Webpage of the TAG"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "gernandt@uni-wuppertal.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
