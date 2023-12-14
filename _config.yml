@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dissipative and port-Hamiltonian Systems, Modeling, Simulation, Control, and Optimization"
+title                    : "Dissipative and port-Hamiltonian Systems" #, Modeling, Simulation, Control, and Optimization"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "EMS Topical Activity Group"
@@ -281,7 +281,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/_posts/"
       type: posts
     values:
       layout: single
