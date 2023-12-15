@@ -6,22 +6,25 @@ entries_layout: grid
 author_profile: true
 ---
 
-**Events 2025**
+**2025**
 
-- Spring School Frauenchiemsee
-- Spring School in Wuppertal
-- Elgersburg Workshop 2025
+- PHS Autumn School, U Groningenorganized by Jacquelien Scherpen
+- PHS Spring School Frauenchiemsee, 23-28 March (organized by Paul Kotyczka, Bernhard Maschke)
+- Elgersburg Workshop 2025 (February/March)
   
-**Events 2024**
+**2024**
 
-- Elgersburg Workshop
-- Session at ECC by Schiffer Strehle
+- Elgersburg Workshop on Mathematical Systems Theory,  25-29 February, Ilmenau, Germany (coorganized by Timo Reis)
+- Invited Session at European Control Conference 25-28 June, Stockholm, Sweden (organized by Johannes Schiffer and Felix Strehle)
 - IFAC in Besancon (Information on Minisymposion will follow)
-- pHOne Seminar (monthly online Seminar)
-- pHOne Lecture "Introduction to pH Systems" (scheduled April-July) 
+- pHOne Seminar (monthly Online Seminar)
+- pHOne Lecture "Introduction to pH Systems" (Online Lecture, scheduled April-July)
+- PHS Docotoral College Meeting @ TIDAE Toulouse (in Spring organized by D. Matignon)
+- PHS Docotoral College Meeting @ Twente (in Autumn organized by F. Schwenninger and Hans Zwart)
 
 
 **Past events**
+
 Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
 
 - 06/2023: Minisymposium "Analysis and Numerics of Port-Hamiltonian Systems'' organized by M. Ehrhardt and B. Liljegren-Sailer at the ECMI 2023 in Wrocław, Poland.
