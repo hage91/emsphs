@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Topical Activity Group pHs"
-  avatar           : "/assets/phs_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/phs.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Webpage of the Activity Group"
   location         : #"Somewhere"
   email            : "gernandt@uni-wuppertal.de"
