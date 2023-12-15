@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Members of the Activity Group pHS"
+title: "Members of the Activity Group"
 permalink: /people/
 entries_layout: grid
 author_profile: true
