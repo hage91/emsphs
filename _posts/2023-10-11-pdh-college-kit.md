@@ -1,5 +1,5 @@
 ---
-title: "Doctorate College Meeting at KIT"
+title: "11.-13.10.2023 Doctorate College @ KIT"
 layout: single
 categories:
   - Post Formats
@@ -8,5 +8,3 @@ tags:
   - Post Formats
 link: https://doctoral-college-phs23.irs.kit.edu
 ---
-
-More information can be found here [link](#).
