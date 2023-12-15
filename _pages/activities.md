@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collection of various activities"
+title: "Our activities"
 permalink: /activities/
 entries_layout: grid
 author_profile: true
