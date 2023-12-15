@@ -6,9 +6,23 @@ entries_layout: grid
 author_profile: true
 ---
 
+**Events 2025**
+
+- Spring School Frauenchiemsee
+- Spring School in Wuppertal
+- Elgersburg Workshop 2025
+  
+**Events 2024**
+
+- Elgersburg Workshop
+- Session at ECC by Schiffer Strehle
+- IFAC in Besancon (Information on Minisymposion will follow)
+- pHOne Seminar (monthly online Seminar)
+- pHOne Lecture "Introduction to pH Systems" (scheduled April-July) 
 
 
-Members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
+**Past events**
+Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
 
 - 06/2023: Minisymposium "Analysis and Numerics of Port-Hamiltonian Systems'' organized by M. Ehrhardt and B. Liljegren-Sailer at the ECMI 2023 in Wrocław, Poland.
 - 05/2023:  Minisymposium "Port-Hamiltonian Systems'' organized by B. Jacob and  P. Kotyczka at the GAMM Annual Meeting 2023 in Dresden, Germany.
@@ -24,5 +38,4 @@ Members of the EMS-TAG have organized various events on the topic of the topical
 - 10/2021:  7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control. Organized by P. Kotyczka and V. Mehrmann at TU Berlin, Germany.
 - 05/2021:  Oberwolfach Mini-Workshop: Mathematics of Dissipation – Dynamics, Data and Control. Organized by S. Grundel, V. Mehrmann, J.M.A. Scherpen and F.L. Schwenninger at MFO Oberwolfach, Germany.
 
-[test](https://www.google.de)
 
