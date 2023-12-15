@@ -8,9 +8,9 @@ author_profile: true
 
 
 
- Saeed Ahmed, University of Groningen
- Robert Altmann, OvGU Magdeburg
- Christopher Beattie, Virginia Tech
+- Saeed Ahmed, University of Groningen
+- Robert Altmann, OvGU Magdeburg
+- Christopher Beattie, Virginia Tech
  Thomas Berger, Universität Paderborn
  Bart Besselink, University of Groningen
  Kanat Camlibel, RU Groningen
