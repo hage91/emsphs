@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Upcoming and Past Events"
+title: "Upcoming Events"
 permalink: /events/
 entries_layout: grid
 author_profile: true
