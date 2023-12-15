@@ -112,7 +112,7 @@ author:
   links:
     - label: "Contact Us"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:gernandt@uni-wuppertal.de"
+       #url: "gernandt@uni-wuppertal.de"
     - label: "Join Us" #Website
       icon: "fas fa-fw fa-link"
       url: "https://ems-phs.uni-wuppertal.de/en/registration-ems-phs/"
