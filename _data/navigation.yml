@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Join"
+    url: https://ems-phs.uni-wuppertal.de/en/registration-ems-phs/
   - title: "People"
     url: /year-archive/
   - title: "Activities"
