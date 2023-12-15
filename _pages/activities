@@ -7,14 +7,16 @@ author_profile: true
 ---
 
 
-Should introduce subcategories like: Networks/ Repositories / ...
 
+**Networks**
 
 
 - French-Dutch-German Doctoral College "Port-Hamiltonian Systems: Modeling, Numerics and Control" 
  supported by the Franco-Bavarian University Cooperation Center BayFrance, 
  coordinated by P. Kotyczka, B. Maschke and J. Scherpen, 
  https://www.epc.ed.tum.de/en/rt/cdfa-phs/
+
+** Tools and Repositiries **
 - Online benchmark collection for port-Hamiltonian systems, 
  initiated by B. Lohmann, V. Mehrmann, T. Moser, P. Schwerdtner, and M. Voigt 
  https://algopaul.github.io/PortHamiltonianBenchmarkSystems/
