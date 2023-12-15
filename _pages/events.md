@@ -24,5 +24,5 @@ Members of the EMS-TAG have organized various events on the topic of the topical
 - 10/2021:  7th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control. Organized by P. Kotyczka and V. Mehrmann at TU Berlin, Germany.
 - 05/2021:  Oberwolfach Mini-Workshop: Mathematics of Dissipation – Dynamics, Data and Control. Organized by S. Grundel, V. Mehrmann, J.M.A. Scherpen and F.L. Schwenninger at MFO Oberwolfach, Germany.
 
-[test](www.google.de)
+[test](https://www.google.de)
 
