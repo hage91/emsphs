@@ -8,19 +8,18 @@ author_profile: true
   
 **2024**
 
-- [**Elgersburg Workshop on Mathematical Systems Theory**](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau, Germany, coorganized by Timo Reis.
+- [Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau, Germany, coorganized by Timo Reis.
+- Docotoral College Meeting @ TIDAE Toulouse, France in Spring organized by D. Matignon
 - Invited Session at European Control Conference 25-28 June, Stockholm, Sweden, organized by Johannes Schiffer and Felix Strehle
-- [**8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control**](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Y. Le Gorrec at Besancon, France.
-- PHS Docotoral College Meeting @ TIDAE Toulouse (in Spring organized by D. Matignon)
-- PHS Docotoral College Meeting @ Twente (in Autumn organized by F. Schwenninger and Hans Zwart)
+- [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Y. Le Gorrec at Besancon, France.
 - Special Session "Linear Algebra and Control Theory", IWOTA, 12- 16 August, Canterbury, UK (coorganized by Volker Mehrmann)
-
+- Docotoral College Meeting @ Twente, Netherlands in Autumn organized by F. Schwenninger and Hans Zwart
 
 **2025**
 
 - PHS Spring School Frauenchiemsee, 23-28 March (organized by Paul Kotyczka, Bernhard Maschke)
-- Elgersburg Workshop 2025 (February/March)
-- PHS Autumn School, U Groningen organized by Jacquelien Scherpen
+- Elgersburg Workshop on Mathematical Systems Theory (February/March)
+- PHS Autumn School in Groningen organized by Jacquelien Scherpen
 
 
 **Past events**
