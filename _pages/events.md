@@ -3,13 +3,15 @@ layout: archive
 title: "Upcoming Events"
 permalink: /events/
 entries_layout: grid
-author_profile: true
+author_profile: true 
 ---
+
+
   
 **2024**
 
 - [Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau, Germany, coorganized by Timo Reis.
-- :fr::flag-nl::de: Docotoral College Meeting @ TIDAE Toulouse, France in Spring organized by D. Matignon
+- Docotoral College Meeting @ TIDAE Toulouse, France in Spring organized by D. Matignon
 - Invited Session at European Control Conference 25-28 June, Stockholm, Sweden, organized by Johannes Schiffer and Felix Strehle
 - [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Y. Le Gorrec at Besancon, France.
 - Special Session "Linear Algebra and Control Theory", IWOTA, 12- 16 August, Canterbury, UK (coorganized by Volker Mehrmann)
