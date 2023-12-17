@@ -7,6 +7,9 @@ author_profile: true
 ---
 
 
+**Seminars**
+- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Seminar (monthly Online Seminar)
+- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Lecture "Introduction to pH Systems" (Online Lecture, scheduled April-July)
 
 **Networks**
 
