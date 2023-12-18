@@ -1,10 +1,5 @@
 ---
-title: "11.-13.10.2023 Doctorate College @ KIT"
+title: "11 - 13 Oct 23 :fr::netherlands::de:Doctoral College @ Karlsruhe Intitute of Technology (KIT)"
 layout: single
-categories:
-  - Post Formats
-tags:
-  - link
-  - Post Formats
 link: https://doctoral-college-phs23.irs.kit.edu
 ---
