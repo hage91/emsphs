@@ -1,8 +1,8 @@
 ---
-title: "01 Sep 2023 - Topical Activity Group started"
+title: "01 Sep 23 - Topical Activity Group started"
 layout: single
 ---
-Find out more about the topic.
+More about our topic...
 
 
 The framework of dissipative and port-Hamiltonian (pH) systems constitutes an innovative energy-based network modeling paradigm that offers a systematic approach for the modeling of interactions of systems from various physical domains, such as electrodynamics, (continuum) mechanics, flow dynamics, chemical reaction kinetics, and thermodynamics.
