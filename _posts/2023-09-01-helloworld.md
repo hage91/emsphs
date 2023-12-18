@@ -1,10 +1,5 @@
 ---
-title: "Topical Activity Group started 1st September 2023"
+title: "1st Sep 2023 - Topical Activity Group started"
 layout: single
-categories:
-  - Post Formats
-tags:
-  - link
-  - Post Formats
 ---
 
