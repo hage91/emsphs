@@ -1,5 +1,5 @@
 ---
-title: "01 Sep 23 - Topical Activity Group started"
+title: "01st Sep 23 - Topical Activity Group started"
 layout: single
 ---
 What this Activity Group is about...
