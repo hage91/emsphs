@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "pHOne Seminar"
+title: "port-Hamiltonian Online Seminar"
 permalink: /phone_seminar/
 entries_layout: grid
 author_profile: true
 ---
 
-<img src="https://raw.githubusercontent.com/hage91/emsphs/master/assets/phone.png" alt="phone" width="300"/>
+<img src="https://raw.githubusercontent.com/hage91/emsphs/master/assets/phone.png" alt="phone" width="300"/> 
+
+## Seminar
+
 
 Register for the seminar here...
 
