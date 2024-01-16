@@ -12,9 +12,9 @@ author_profile: true
 
 **Birgit Jacob**
 \
-[IMACM](https://www.imacm.uni-wuppertal.de/en/)
-\
 Bergische Universität Wuppertal
+\
+[IMACM](https://www.imacm.uni-wuppertal.de/en/)
 \
 Gaußstraße 20
 \
