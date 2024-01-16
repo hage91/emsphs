@@ -11,7 +11,7 @@ author_profile: true
 **2024**
 
 - [Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau :de: coorganized by Timo Reis.
-- :fr::netherlands::de: Docotoral College Meeting @ TIDAE Toulouse :fr: in Spring organized by D. Matignon.
+- :fr::netherlands::de: Docotoral College Meeting @ TIDAE Toulouse :fr: 25-27 March organized by D. Matignon.
 - **Invited Session** at [European Control Conference](https://ecc24.euca-ecc.org), 25-28 June, Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
 - [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Y. Le Gorrec at Besancon :fr:.
 - **Special Session** "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), 12- 16 August, Canterbury :uk: coorganized by Volker Mehrmann.
