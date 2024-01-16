@@ -12,8 +12,6 @@ author_profile: true
 
 **Birgit Jacob**
 \
-Fakultät für Mathematik und Naturwissenschaften
-\
 [IMACM](https://www.imacm.uni-wuppertal.de/en/)
 \
 Bergische Universität Wuppertal
@@ -27,7 +25,8 @@ D-42119 Wuppertal
 E-Mail: bjacob[at]uni-wuppertal.de
 
 **Denis Matignon**
-Institut Supérieur de l'Aéronautique et de l'Espace
+\
+[Institut Supérieur de l'Aéronautique et de l'Espace](https://www.isae-supaero.fr/en/)
 \
 10, avenue Édouard-Belin
 \
