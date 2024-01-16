@@ -23,6 +23,7 @@ Gaußstraße 20
 D-42119 Wuppertal
 \
 [Webpage](https://www.fan.uni-wuppertal.de/en/staff/prof-dr-birgit-jacob/)
+\
 E-Mail: bjacob[at]uni-wuppertal.de
 
 **Denis Matignon**
@@ -33,6 +34,7 @@ Institut Supérieur de l'Aéronautique et de l'Espace
 BP 54032 - 31055 Toulouse CEDEX 4
 \
 [Webpage](https://pagespro.isae-supaero.fr/denis-matignon/)
+\
 E-Mail: denis.matignon[at]isae-supaero.fr
 
 
