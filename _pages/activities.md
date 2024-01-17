@@ -9,7 +9,7 @@ author_profile: true
 
 **Seminars**
 
-- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Seminar [Schedule](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/))
+- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Seminar [Schedule](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/)
 - **p**ort-**H**amiltonian **On**lin**e** (pHOne) Lecture "Introduction to port-Hamiltonian systems" by Hannes Gernandt and Timo Reis (10 Apr - 19 Jul 24 streamed from Wuppertal and Ilmenau :de:)
 
 **Networks**
