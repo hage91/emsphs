@@ -8,12 +8,12 @@ author_profile: true
 
 
 
-- Saeed Ahmed, University of Groningen 🇳🇱
-- Robert Altmann, OvGU Magdeburg 🇩🇪
+- Saeed Ahmed, University of Groningen :netherlands:
+- Robert Altmann, OvGU Magdeburg :de:
 - Christopher Beattie, Virginia Tech :us:
 - Thomas Berger, Universität Paderborn :de:
-- Bart Besselink, University of Groningen 🇳🇱
-- Kanat Camlibel, University of Groningen 🇳🇱
+- Bart Besselink, University of Groningen :netherlands:
+- Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, TU Berlin :de:
 - Michele Cucuzzella, University of Pavia :it:
 - Matthias Ehrhardt, Universität Wuppertal :de:
@@ -21,11 +21,11 @@ author_profile: true
 - Timm Faulwasser, TU Dortmund :de:
 - Jörg Fehr, University of Stuttgart :de:
 - Hannes Gernandt, Universität Wuppertal :de:
-- Silke Glas, University of Twente :nl:
+- Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
-- Mikael Kurula, Abo Akademi University Turku 🇫🇮
+- Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
@@ -40,12 +40,12 @@ author_profile: true
 - Manuel Schaller, TU Ilmenau :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
-- Felix Schwenninger, University of Twente :nl:
-- Vaibhav Kumar Singh, University of Groningen :nl:
-- Stephan Trenn, University of Groningen :nl:
+- Felix Schwenninger, University of Twente :netherlands:
+- Vaibhav Kumar Singh, University of Groningen :netherlands:
+- Stephan Trenn, University of Groningen :netherlands:
 - Claudia Totzeck, Universität Wuppertal :de:
 - Benjamin Unger, Universität Stuttgart :de:
-- Arjan van der Schaft, University of Groningen :nl:
-- Matthias Voigt, UniDistance Suisse 🇨🇭
-- Michał Wojtylak, Jagiellonian University 🇵🇱
-- Hans Zwart, University of Twente :nl:
+- Arjan van der Schaft, University of Groningen :netherlands:
+- Matthias Voigt, UniDistance Suisse :switzerland:
+- Michał Wojtylak, Jagiellonian University :poland:
+- Hans Zwart, University of Twente :netherlands:
