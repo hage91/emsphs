@@ -23,6 +23,7 @@ author_profile: true
 - Hannes Gernandt, Universität Wuppertal :de:
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
+- Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
