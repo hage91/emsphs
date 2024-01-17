@@ -24,6 +24,7 @@ author_profile: true
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
+- Anthony Hastir, University of Namur :belgium:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
