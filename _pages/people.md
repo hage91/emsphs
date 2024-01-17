@@ -30,7 +30,7 @@ author_profile: true
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Juan E. Machado, Brandenburg University of Technology Cottbus - Senftenberg :de:
-- Denis Matignon, ISAE, Toulouse :fr:
+- Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
 - Riccardo Morandin, TU Berlin :de:
 - Jonas Nicodemus, University of Stuttgart :de:
