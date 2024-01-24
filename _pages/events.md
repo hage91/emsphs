@@ -11,11 +11,12 @@ author_profile: true
 **2024**
 
 - [Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau :de: coorganized by Timo Reis.
-- :fr::netherlands::de: Docotoral College Meeting @ Toulouse :fr: 25-27 March organized by D. Matignon.
+- :fr::netherlands::de: Docotoral College Meeting @ Toulouse :fr: 25-27 March organized by Denis Matignon.
+- [2nd Brig Workshop on Dissipativity in Systems and Control](https://fernuni.ch/event/second-brig-workshop-on-dissipativity-in-systems-and-control), 21-24 May, Brig :switzerland: organized by Timm Faulwasser, Benjamin Unger and Matthias Voigt
 - Invited Session at [European Control Conference](https://ecc24.euca-ecc.org), 25-28 June, Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
-- [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Y. Le Gorrec at Besancon :fr:.
+- [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Yann Le Gorrec at Besancon :fr:.
 - Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), 12- 16 August, Canterbury :uk: coorganized by Volker Mehrmann.
-- :fr::netherlands::de: Docotoral College Meeting @ Twente :netherlands: in Autumn organized by F. Schwenninger and Hans Zwart.
+- :fr::netherlands::de: Docotoral College Meeting @ Twente :netherlands: in Autumn organized by Felix Schwenninger and Hans Zwart.
 
 **2025**
 
