@@ -10,7 +10,7 @@ author_profile: true
 **Seminars**
 
 - **p**ort-**H**amiltonian **On**lin**e** (pHOne) Seminar [Schedule](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/)
-- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Lecture "Introduction to port-Hamiltonian systems" by Hannes Gernandt and Timo Reis (10 Apr - 19 Jul 24 [More Information](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/))
+- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Lecture "Introduction to port-Hamiltonian systems" by H. Gernandt and T. Reis (10 Apr - 19 Jul 24 [More Information](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/))
 
 **Networks**
 
@@ -19,7 +19,7 @@ author_profile: true
  coordinated by P. Kotyczka, B. Maschke and J. Scherpen, 
  
 
-**Tools and Repositiries**
+**Software Repositories**
 
 - [Benchmark collection for port-Hamiltonian systems](https://algopaul.github.io/PortHamiltonianBenchmarkSystems/), 
  initiated by B. Lohmann, V. Mehrmann, T. Moser, P. Schwerdtner, and M. Voigt 
