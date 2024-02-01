@@ -31,6 +31,7 @@ author_profile: true
 - Paul Kotyczka, TU Munich :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
+- Markus Lohmayer, FAU Erlangen-Nürnberg :de:
 - Juan E. Machado, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
