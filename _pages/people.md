@@ -27,6 +27,7 @@ author_profile: true
 - Anthony Hastir, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
+- Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
