@@ -1,7 +1,9 @@
 ---
-title: "01st Sep 23 - Topical Activity Group started"
+title: "Topical Activity Group started"
 layout: single
 ---
+We are happy to announce that the Topical activity group started on 01st Sep 23. 
+
 What this Activity Group is about...
 
 
