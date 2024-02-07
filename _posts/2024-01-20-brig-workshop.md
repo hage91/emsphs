@@ -1,5 +1,5 @@
 ---
-title: "21nd May 24 - 2nd Brig Workshop on Dissipativity in Systems and Control"
+title: "2nd Brig Workshop on Dissipativity in Systems and Control"
 layout: single
 link: https://fernuni.ch/event/second-brig-workshop-on-dissipativity-in-systems-and-control
 ---
