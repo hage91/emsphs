@@ -41,6 +41,7 @@ author_profile: true
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
 - Riccardo Morandin, TU Berlin :de:
+- Riccardo Muradore, University of Verona :it:
 - Jonas Nicodemus, University of Stuttgart :de:
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
 - Timo Reis, Technische Universität Ilmenau :de:
