@@ -52,6 +52,7 @@ author_profile: true
 - Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
 - Felix Schwenninger, University of Twente :netherlands:
+- Nathanael Skrepek, TU Freiberg :de:
 - Vaibhav Kumar Singh, University of Groningen :netherlands:
 - Stephan Trenn, University of Groningen :netherlands:
 - Claudia Totzeck, Universität Wuppertal :de:
