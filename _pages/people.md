@@ -12,6 +12,7 @@ author_profile: true
 - Robert Altmann, OvGU Magdeburg :de:
 - Christopher Beattie, Virginia Tech :us:
 - Thomas Beckers, Vanderbilt University :us:
+- Antoine Bendimerad-Hohl, ISAE-SUPAERO, Toulouse :fr:
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
