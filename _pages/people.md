@@ -35,6 +35,7 @@ author_profile: true
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
+- Jochen Glück, Universität Wuppertal :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
