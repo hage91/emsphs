@@ -28,6 +28,7 @@ author_profile: true
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
+- Carsten Hartmann, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Anthony Hastir, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
