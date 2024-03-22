@@ -8,4 +8,5 @@ There will be 14 weekly lectures starting April 11th 2024.
 
 Lectures are given by Hannes Gernandt (Wuppertal) and Timo Reis (Ilmenau).
 
-To access the lecture notes and recordings register on the course https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/.
+To access the lecture notes and recordings on the Moodle page register on the course
+[Moodle page](https://moodle.uni-wuppertal.de/enrol/index.php?id=36981&lang=en)
