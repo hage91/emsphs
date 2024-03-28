@@ -32,6 +32,8 @@ author_profile: true
 - Anthony Hastir, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
+- Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
+- Jonas Kirchhoff, Technische Universität Ilmenau :de:
 - Marten Klein, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
@@ -63,4 +65,5 @@ author_profile: true
 - Arjan van der Schaft, University of Groningen :netherlands:
 - Matthias Voigt, UniDistance Suisse :switzerland:
 - Michał Wojtylak, Jagiellonian University :poland:
+- Karl Worthmann, Technische Universität Ilmenau :de:
 - Hans Zwart, University of Twente :netherlands:
