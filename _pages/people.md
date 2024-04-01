@@ -41,7 +41,7 @@ author_profile: true
 - Jochen Glück, Universität Wuppertal :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
-- Maximino Linares, Sorbonne Université :fr:
+- Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
 - Juan E. Machado, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Lahcen Maniar, Cadi Ayyad Marrakech :morocco:
