@@ -33,7 +33,7 @@ author_profile: true
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
-- Jonas Kirchhoff, Technische Universität Ilmenau :de:
+- Jonas Kirchhoff, TU Ilmenau :de:
 - Marten Klein, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
@@ -57,6 +57,7 @@ author_profile: true
 - Manuel Schaller, TU Ilmenau :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
+- Philipp Schulze, TU Berlin :de:
 - Felix Schwenninger, University of Twente :netherlands:
 - Nathanael Skrepek, TU Freiberg :de:
 - Vaibhav Kumar Singh, University of Groningen :netherlands:
@@ -66,5 +67,5 @@ author_profile: true
 - Arjan van der Schaft, University of Groningen :netherlands:
 - Matthias Voigt, UniDistance Suisse :switzerland:
 - Michał Wojtylak, Jagiellonian University :poland:
-- Karl Worthmann, Technische Universität Ilmenau :de:
+- Karl Worthmann, TU Ilmenau :de:
 - Hans Zwart, University of Twente :netherlands:
