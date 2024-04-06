@@ -69,3 +69,4 @@ author_profile: true
 - Michał Wojtylak, Jagiellonian University :poland:
 - Karl Worthmann, TU Ilmenau :de:
 - Hans Zwart, University of Twente :netherlands:
+- Lihua Zhou, University of Groningen :netherlands:
