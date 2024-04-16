@@ -10,18 +10,17 @@ author_profile: true
   
 **2024**
 
-- [Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), 25-29 February, Ilmenau :de: coorganized by Timo Reis.
-- :fr::netherlands::de: Docotoral College Meeting @ Toulouse :fr: 25-27 March organized by Denis Matignon.
-- [2nd Brig Workshop on Dissipativity in Systems and Control](https://fernuni.ch/event/second-brig-workshop-on-dissipativity-in-systems-and-control), 21-24 May, Brig :switzerland: organized by Timm Faulwasser, Benjamin Unger and Matthias Voigt
-- Invited Session at [European Control Conference](https://ecc24.euca-ecc.org), 25-28 June, Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
-- [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/). 10-12 June organized by Yann Le Gorrec at Besancon :fr:.
-- Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), 12- 16 August, Canterbury :uk: coorganized by Volker Mehrmann.
-- :fr::netherlands::de: Docotoral College Meeting @ Twente :netherlands: in Autumn organized by Felix Schwenninger and Hans Zwart.
+- 21-24 May [2nd Brig Workshop on Dissipativity in Systems and Control](https://fernuni.ch/event/second-brig-workshop-on-dissipativity-in-systems-and-control), Brig :switzerland: organized by Timm Faulwasser, Benjamin Unger and Matthias Voigt
+- 25-28 June, Invited Session at [European Control Conference](https://ecc24.euca-ecc.org), Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
+- 10-12 June [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/) organized by Yann Le Gorrec at Besancon :fr:.
+- 12- 16 August, Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), Canterbury :uk: coorganized by Volker Mehrmann.
+- 12- 16 August, Invited Session at [IFIP TC-7 "System Modeling and Optimization"](https://www.conferences.uni-hamburg.de/event/301/): "Recent trends in control and numerics of port-Hamiltonian systems" organized by Timo Reis and Manuel Schaller (TU Ilmenau)
+- October :fr::netherlands::de: Docotoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
 
 **2025**
 
-- PHS Spring School Frauenchiemsee :de:, 23-28 March (organized by Paul Kotyczka, Bernhard Maschke)
-- Elgersburg Workshop on Mathematical Systems Theory :de: (February/March)
+- 9-13 February [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
+- 23-28 March, PHS Spring School Frauenchiemsee :de:,  organized by Paul Kotyczka and Bernhard Maschke
 - PHS Autumn School in Groningen 🇳🇱 organized by Jacquelien Scherpen
 
 
@@ -29,6 +28,8 @@ author_profile: true
 
 Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
 
+- 03/2024 :fr::netherlands::de: Docotoral College Meeting @ Toulouse :fr: organized by Denis Matignon.
+- 02/2024 [16th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Ilmenau :de: coorganized by Timo Reis.
 - 06/2023: **Minisymposium** "Analysis and Numerics of Port-Hamiltonian Systems'' organized by M. Ehrhardt and B. Liljegren-Sailer at the ECMI 2023 in Wrocław :poland:.
 - 05/2023:  **Minisymposium** "Port-Hamiltonian Systems'' organized by B. Jacob and  P. Kotyczka at the GAMM Annual Meeting 2023 in Dresden :de:.
 - 03/2023: 3rd **Workshop** of the  French-Dutch-German Doctoral College: "Port-Hamiltonian Systems: Modeling, Numerics and Control'' organized by B.  Jacob in Wuppertal :de:.
