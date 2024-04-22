@@ -34,6 +34,7 @@ author_profile: true
 - Birgit Jacob, Universität Wuppertal :de:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
 - Jonas Kirchhoff, TU Ilmenau :de:
+- Kathrin Klamroth, Universität Wuppertal :de:
 - Marten Klein, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
