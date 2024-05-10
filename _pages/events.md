@@ -15,7 +15,7 @@ author_profile: true
 - 10 - 12 June [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/) organized by Yann Le Gorrec at Besancon :fr:.
 - 12 - 16 August, Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), Canterbury :uk: coorganized by Volker Mehrmann.
 - 12 - 16 August, Invited Session at [IFIP TC-7 "System Modeling and Optimization"](https://www.conferences.uni-hamburg.de/event/301/): "Recent trends in control and numerics of port-Hamiltonian systems" organized by Timo Reis and Manuel Schaller (TU Ilmenau)
-- October :fr::netherlands::de: Doctoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
+- 16 - 18 October, :fr::netherlands::de: Doctoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
 
 **2025**
 
