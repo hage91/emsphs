@@ -13,6 +13,7 @@ author_profile: true
 - Christopher Beattie, Virginia Tech :us:
 - Thomas Beckers, Vanderbilt University :us:
 - Antoine Bendimerad-Hohl, ISAE-SUPAERO, Toulouse :fr:
+- Peter Benner, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg :de:
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
