@@ -25,6 +25,7 @@ author_profile: true
 - Mehmet Erbay, Universität Wuppertal :de:
 - Timm Faulwasser, TU Dortmund :de:
 - Jörg Fehr, University of Stuttgart :de:
+- Luca Furieri, EPFL Lausanne :switzerland:
 - Hannes Gernandt, Universität Wuppertal :de:
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
@@ -70,5 +71,6 @@ author_profile: true
 - Matthias Voigt, UniDistance Suisse :switzerland:
 - Michał Wojtylak, Jagiellonian University :poland:
 - Karl Worthmann, TU Ilmenau :de:
+- Muhammad Zakwan, EPFL Lausanne :switzerland:
 - Hans Zwart, University of Twente :netherlands:
 - Lihua Zhou, University of Groningen :netherlands:
