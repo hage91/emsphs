@@ -38,6 +38,7 @@ author_profile: true
 - Jonas Kirchhoff, TU Ilmenau :de:
 - Kathrin Klamroth, Universität Wuppertal :de:
 - Marten Klein, Brandenburg University of Technology Cottbus - Senftenberg :de:
+- Boris Kramer, UC San Diego :us:
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
