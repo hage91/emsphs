@@ -34,6 +34,7 @@ author_profile: true
 - Anthony Hastir, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
+- Najmeh Javanmardi, University of Groningen :netherlands:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
 - Jonas Kirchhoff, TU Ilmenau :de:
 - Kathrin Klamroth, Universität Wuppertal :de:
