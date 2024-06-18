@@ -18,6 +18,7 @@ author_profile: true
 - Bart Besselink, University of Groningen :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, TU Berlin :de:
+- Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Pavia :it:
 - Abdelhakim Dahmani, University of Science and Technology Houari Boumediene :algeria:
 - Matthias Ehrhardt, Universität Wuppertal :de:
@@ -49,7 +50,7 @@ author_profile: true
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
 - Juan E. Machado, Brandenburg University of Technology Cottbus - Senftenberg :de:
-- Lahcen Maniar, Cadi Ayyad Marrakech :morocco:
+- Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
 - Riccardo Morandin, TU Berlin :de:
