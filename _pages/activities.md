@@ -10,7 +10,7 @@ author_profile: true
 **Courses and Seminars**
 
 - [Port-Hamiltonian Seminar](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/)
-- [Port-Hamiltonian Online Course](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/)) "Introduction to port-Hamiltonian systems" 
+- [Port-Hamiltonian Online Course](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/) "Introduction to port-Hamiltonian systems" 
 
 **Networks**
 
