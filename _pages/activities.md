@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 
-**Seminars**
+**Courses and Seminars**
 
-- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Seminar [Schedule](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/)
-- **p**ort-**H**amiltonian **On**lin**e** (pHOne) Lecture "Introduction to port-Hamiltonian systems" by H. Gernandt and T. Reis (Summer 2024 [Schedule](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/))
+- [Port-Hamiltonian Seminar](https://www.fan.uni-wuppertal.de/de/port-hamiltonian-online-seminar-phone/)
+- [Port-Hamiltonian Online Course](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/)) "Introduction to port-Hamiltonian systems" 
 
 **Networks**
 
