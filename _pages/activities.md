@@ -28,3 +28,6 @@ author_profile: true
  a python collection of methods and classes for the structure-preserving discretization and simulation of multi-physics models, 
  using the formalism of port-Hamiltonian systems, 
  initiated by M. Fournié, G. Haine, F. Monteghetti, and X. Vasseur
+
+- [PyPHS](https://pyphs.github.io/pyphs/) A Python software (Py) dedicated to the simulation of multi-physical Port-Hamiltonian Systems (PHS) described by graph structures initiated by Antoine Falaize
+
