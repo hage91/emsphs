@@ -27,6 +27,7 @@ author_profile: true
 - Timm Faulwasser, TU Dortmund :de:
 - Jörg Fehr, University of Stuttgart :de:
 - Luca Furieri, EPFL Lausanne :switzerland:
+- Kene Samuel Francois-de Gannes, University of West Indies  :jamaica:
 - Hannes Gernandt, Universität Wuppertal :de:
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
