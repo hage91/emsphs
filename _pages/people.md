@@ -68,6 +68,7 @@ author_profile: true
 - Felix Schwenninger, University of Twente :netherlands:
 - Nathanael Skrepek, TU Freiberg :de:
 - Vaibhav Kumar Singh, University of Groningen :netherlands:
+- Felix Strehle, Karlsruhe Intitute of Technology :de:
 - Tatjana Stykel, University of Augsburg :de:
 - Stephan Trenn, University of Groningen :netherlands:
 - Claudia Totzeck, Universität Wuppertal :de:
