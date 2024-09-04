@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-Some references on dissipative and port-Hamiltonian Systems: [Suggest more](mailto:gernandt@uni-wuppertal.de).
+[Suggest more](mailto:gernandt@uni-wuppertal.de) references on dissipative and port-Hamiltonian Systems. .
   
 **Surveys**
 
