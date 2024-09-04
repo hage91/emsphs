@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-Here are some references on dissipative and port-Hamiltonian Systems. The list is by no means complete. If you have a good suggestion for more references please [write us](mailto:gernandt@uni-wuppertal.de).
+Some references on dissipative and port-Hamiltonian Systems: [Suggest more](mailto:gernandt@uni-wuppertal.de).
   
 **Surveys**
 Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez,
