@@ -9,7 +9,9 @@ main:
   - title: "Activities"
     url: /activities/
   - title: "Events"
-    url: /events/
+    url: /events/     
+  - title: "Literature"
+    url: /literature/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
