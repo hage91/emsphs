@@ -10,23 +10,24 @@ author_profile: true
   
 **2024**
 
-- 25 - 28 June, Invited Session at [European Control Conference](https://ecc24.euca-ecc.org), Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
-- 12 - 16 August, Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), Canterbury :uk: coorganized by Volker Mehrmann.
-- 12 - 16 August, Invited Session at [IFIP TC-7 "System Modeling and Optimization"](https://www.conferences.uni-hamburg.de/event/301/): "Recent trends in control and numerics of port-Hamiltonian systems" organized by Timo Reis and Manuel Schaller (TU Ilmenau)
-- 29-23 August, Invited session ``Learning and Surrogate Modeling of port-Hamiltonian Systems" organized by Manuel Schaller (Tu Ilmenau) and Claudia Totzeck (University Wuppertal)  at the 26th International Symposium on Mathematical Theory of Networks and Systems, MTNS 2024, in Cambridge, UK.
 - 16 - 18 October, :fr::netherlands::de: Doctoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
-
+- 9 - 13 December, [Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
+  
 **2025**
 
 - 9 - 13 February [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
 - 23 - 28 March, PHS Spring School Frauenchiemsee :de:,  organized by Paul Kotyczka and Bernhard Maschke
-- PHS Autumn School in Groningen 🇳🇱 organized by Jacquelien Scherpen
+- :fr::netherlands::de: Doctoral College Meeting in Groningen 🇳🇱 organized by Jacquelien Scherpen
 
 
 **Past events**
 
 Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
 
+- 08/2024: Invited session ``Learning and Surrogate Modeling of port-Hamiltonian Systems" organized by Manuel Schaller and Claudia Totzeck at the 26th International Symposium on Mathematical Theory of Networks and Systems, MTNS 2024, in Cambridge:uk:
+- 08/2024: Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), Canterbury :uk: coorganized by Volker Mehrmann.
+- 08/2024: Invited Session at [IFIP TC-7 "System Modeling and Optimization"](https://www.conferences.uni-hamburg.de/event/301/): "Recent trends in control and numerics of port-Hamiltonian systems" organized by Timo Reis and Manuel Schaller in Hamburg :de:
+- 06/2024: Invited Session at [European Control Conference](https://ecc24.euca-ecc.org), Stockholm :sweden: organized by Johannes Schiffer and Felix Strehle.
 - 06/2024: [8th IFAC Workshop on Lagrangian and Hamiltonian Methods for Nonlinear Control](https://conferences.ifac-control.org/lhmnc24/) organized by Yann Le Gorrec at Besancon :fr:.
 - 05/2024: [2nd Brig Workshop on Dissipativity in Systems and Control](https://fernuni.ch/event/second-brig-workshop-on-dissipativity-in-systems-and-control), Brig :switzerland: organized by Timm Faulwasser, Benjamin Unger and Matthias Voigt
 - 03/2024: :fr::netherlands::de: Doctoral College Meeting @ Toulouse :fr: organized by Denis Matignon.
