@@ -24,7 +24,7 @@ author_profile: true
 - Matthias Ehrhardt, Universität Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
 - Mehmet Erbay, Universität Wuppertal :de:
-- Timm Faulwasser, TU Dortmund :de:
+- Timm Faulwasser, TU Hamburg :de:
 - Jörg Fehr, University of Stuttgart :de:
 - Luca Furieri, EPFL Lausanne :switzerland:
 - Kene Samuel Francois-de Gannes, University of West Indies  :jamaica:
@@ -61,7 +61,7 @@ author_profile: true
 - Timo Reis, Technische Universität Ilmenau :de:
 - Johannes Rettberg, University of Stuttgart :de:
 - Barbara Rüdiger, Universität Wuppertal :de:
-- Manuel Schaller, TU Ilmenau :de:
+- Manuel Schaller, TU Chemnitz :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
 - Philipp Schulze, TU Berlin :de:
