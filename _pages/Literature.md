@@ -10,7 +10,7 @@ author_profile: true
 This list is continuously updated. Please feel free to [suggest additional references](mailto:gernandt@uni-wuppertal.de) on dissipative and port-Hamiltonian systems.
 
   
-##Surveys##
+## Surveys
 
 ---
 Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez,
@@ -25,7 +25,7 @@ Ramy Rashad, Federico Califano, Arjan van der Schaft, Stefano Stramigioli, **Twe
 
 ---
 
-##Monographs##
+## Monographs
 ---
 
 Bernard Brogliato, Rogelio Lozano, Bernhard Maschke and Olav Egeland, **Dissipative Systems Analysis and Control**. Communications and Control Engineering, Springer, Cham, 2020. [https://doi.org/10.1007/978-3-030-19420-8](https://doi.org/10.1007/978-3-030-19420-8)
