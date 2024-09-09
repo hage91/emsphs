@@ -15,19 +15,27 @@ This list is continuously updated. Please feel free to [suggest additional refer
 Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez,
 **Port-Hamiltonian formulations for the modeling, simulation and control of fluids**, Computers & Fluids 283, 2024, 106407,
 [https://doi.org/10.1016/j.compfluid.2024.106407](https://doi.org/10.1016/j.compfluid.2024.106407)
-
---
+```
+bibtex...
+```
+---
 Volker Mehrmann and Benjamin Unger, **Control of port-Hamiltonian differential-algebraic systems and applications**, Acta Numerica 32, pp. 395–515, 2023. [https://doi.org/110.1017/S0962492922000083](https://doi.org/110.1017/S0962492922000083)
-
+```
+bibtex...
+```
 ---
 Ramy Rashad, Federico Califano, Arjan van der Schaft, Stefano Stramigioli, **Twenty years of distributed port-Hamiltonian systems: a literature review**, IMA Journal of Mathematical Control and Information 37(4), pp. 1400–1422, 2020. [https://doi.org/10.1093/imamci/dnaa018](https://doi.org/10.1093/imamci/dnaa018)
-
+```
+bibtex...
+```
 ---
 
 ## Monographs
 
 Bernard Brogliato, Rogelio Lozano, Bernhard Maschke and Olav Egeland, **Dissipative Systems Analysis and Control**. Communications and Control Engineering, Springer, Cham, 2020. [https://doi.org/10.1007/978-3-030-19420-8](https://doi.org/10.1007/978-3-030-19420-8)
-
+```
+bibtex...
+```
 --
 Vincent Duindam, Alessandro Macchelli, Stefano Stramigioli, and Herman Bruyninckx (eds.), **Modeling and control of complex physical systems: the port-Hamiltonian approach**. Springer Science & Business Media, 2009. [Book PDF](https://ris.utwente.nl/ws/portalfiles/portal/185509417/Duindam09modeling.pdf)
 
