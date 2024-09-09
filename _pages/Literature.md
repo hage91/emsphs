@@ -12,7 +12,7 @@ This list is continuously updated. Please feel free to [suggest additional refer
   
 **Surveys**
 
-- Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez,
+>Flávio Luiz Cardoso-Ribeiro, Ghislain Haine, Yann Le Gorrec, Denis Matignon, Hector Ramirez,
 **Port-Hamiltonian formulations for the modeling, simulation and control of fluids**, Computers & Fluids 283, 2024, 106407,
 [https://doi.org/10.1016/j.compfluid.2024.106407](https://doi.org/10.1016/j.compfluid.2024.106407)
 - Volker Mehrmann and Benjamin Unger, **Control of port-Hamiltonian differential-algebraic systems and applications**, Acta Numerica 32, pp. 395–515, 2023. [https://doi.org/110.1017/S0962492922000083](https://doi.org/110.1017/S0962492922000083)
