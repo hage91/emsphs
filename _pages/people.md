@@ -60,6 +60,7 @@ author_profile: true
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
 - Timo Reis, Technische Universität Ilmenau :de:
 - Johannes Rettberg, University of Stuttgart :de:
+- Marco Roschkowski, Universität Wuppertal :de:
 - Barbara Rüdiger, Universität Wuppertal :de:
 - Manuel Schaller, TU Chemnitz :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
