@@ -17,7 +17,7 @@ author_profile: true
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
-- Karim Cherifi, TU Berlin :de:
+- Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Pavia :it:
 - Abdelhakim Dahmani, University of Science and Technology Houari Boumediene :algeria:
@@ -54,7 +54,7 @@ author_profile: true
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
-- Riccardo Morandin, TU Berlin :de:
+- Riccardo Morandin, OvGU Magdeburg :de:
 - Riccardo Muradore, University of Verona :it:
 - Jonas Nicodemus, University of Stuttgart :de:
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
@@ -67,7 +67,7 @@ author_profile: true
 - Merlin Schmitz, Universität Wuppertal :de:
 - Philipp Schulze, TU Berlin :de:
 - Felix Schwenninger, University of Twente :netherlands:
-- Nathanael Skrepek, TU Freiberg :de:
+- Nathanael Skrepek, University of Twente :netherlands:
 - Vaibhav Kumar Singh, University of Groningen :netherlands:
 - Felix Strehle, Karlsruhe Intitute of Technology :de:
 - Tatjana Stykel, University of Augsburg :de:
