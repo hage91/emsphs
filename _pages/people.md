@@ -32,7 +32,7 @@ author_profile: true
 - Silke Glas, University of Twente :netherlands:
 - Michael Günther, Universität Wuppertal :de:
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
-- Carsten Hartmann, Brandenburg University of Technology Cottbus - Senftenberg :de:
+- Carsten Hartmann, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Anthony Hastir, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
@@ -40,7 +40,7 @@ author_profile: true
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
 - Jonas Kirchhoff, TU Ilmenau :de:
 - Kathrin Klamroth, Universität Wuppertal :de:
-- Marten Klein, Brandenburg University of Technology Cottbus - Senftenberg :de:
+- Marten Klein, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Boris Kramer, UC San Diego :us:
 - Thomas Kruse, Universität Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
@@ -50,7 +50,7 @@ author_profile: true
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
-- Juan E. Machado, Brandenburg University of Technology Cottbus - Senftenberg :de:
+- Juan E. Machado, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
@@ -62,8 +62,9 @@ author_profile: true
 - Johannes Rettberg, University of Stuttgart :de:
 - Marco Roschkowski, Universität Wuppertal :de:
 - Barbara Rüdiger, Universität Wuppertal :de:
+- Arijit Sarkar,  Brandenburg University of Technology Cottbus-Senftenburg :de:
 - Manuel Schaller, TU Chemnitz :de:
-- Johannes Schiffer, Brandenburg University of Technology Cottbus - Senftenberg :de:
+- Johannes Schiffer, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
 - Philipp Schulze, TU Berlin :de:
 - Felix Schwenninger, University of Twente :netherlands:
