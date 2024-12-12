@@ -27,7 +27,7 @@ Hannes Gernandt
 
 Birgit Jacob
 
-<img src="https://github.com/hage91/emsphs/blob/master/_posts/sym1.jpeg"
+<img src="/assets/sym1.jpeg"
      alt="Conference Picturen"
      style="float: left; margin-right: 10px;" />
 
