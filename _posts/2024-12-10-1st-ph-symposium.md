@@ -1,7 +1,6 @@
 ---
-title: "1st pH Sympsium @ Wuppertal"
+title: "1st pH Sympsium Wuppertal"
 layout: single
-link: ...
 ---
 
 From August to November, five international project groups collaborated on independent projects centered around port-Hamiltonian Systems (pHS), addressing topics including:
@@ -27,8 +26,8 @@ Hannes Gernandt
 
 Birgit Jacob
 
-<img src="/assets/sym1.jpeg"
-     alt="Conference Picturen"
+<img src="sym1.jpeg"
+     alt="Conference Picture"
      style="float: left; margin-right: 10px;" />
 
 
