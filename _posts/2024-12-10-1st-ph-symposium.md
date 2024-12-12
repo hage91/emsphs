@@ -32,3 +32,11 @@ Birgit Jacob
 
 
 
+<img src="https://raw.githubusercontent.com/hage91/emsphs/refs/heads/master/_posts/sym2.jpeg"
+     alt="Conference Picture"
+     style="float: left; margin-right: 10px;" />
+
+     
+
+
+
