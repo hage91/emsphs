@@ -24,5 +24,11 @@ Plans are already underway to make this symposium a regular event, with the next
 For further information, please contact:
 
 Hannes Gernandt 
+
 Birgit Jacob
+
+
+![Alt text](https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg "a title")
+
+
 
