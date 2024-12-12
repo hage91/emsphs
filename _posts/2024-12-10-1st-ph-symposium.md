@@ -27,11 +27,9 @@ Hannes Gernandt
 
 Birgit Jacob
 
-
-![Conference Picture](https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg "a title")
-
-![Project Group](https://github.com/hage91/emsphs/blob/master/assets/sym2.jpeg "another title")
-
+<img src="https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg"
+     alt="Conference Picturen"
+     style="float: left; margin-right: 10px;" />
 
 
 
