@@ -28,9 +28,9 @@ Hannes Gernandt
 Birgit Jacob
 
 
-![Alt text](https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg "a title")
+![Conference Picture](https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg "a title")
 
-![Alt text](https://github.com/hage91/emsphs/blob/master/assets/sym2.jpeg "another title")
+![Project Group](https://github.com/hage91/emsphs/blob/master/assets/sym2.jpeg "another title")
 
 
 
