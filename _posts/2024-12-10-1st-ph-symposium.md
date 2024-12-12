@@ -1,5 +1,5 @@
 ---
-title: "1st pH Sympsium Wuppertal"
+title: "1st pH Symposium Wuppertal"
 layout: single
 ---
 
@@ -26,7 +26,7 @@ Hannes Gernandt
 
 Birgit Jacob
 
-<img src="sym1.jpeg"
+<img src="https://raw.githubusercontent.com/hage91/emsphs/refs/heads/master/_posts/sym1.jpeg"
      alt="Conference Picture"
      style="float: left; margin-right: 10px;" />
 
