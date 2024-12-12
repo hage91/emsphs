@@ -30,5 +30,8 @@ Birgit Jacob
 
 ![Alt text](https://github.com/hage91/emsphs/blob/master/assets/sym1.jpeg "a title")
 
+![Alt text](https://github.com/hage91/emsphs/blob/master/assets/sym2.jpeg "another title")
+
+
 
 
