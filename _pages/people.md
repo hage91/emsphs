@@ -19,8 +19,8 @@ author_profile: true
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
-- Michele Cucuzzella, University of Pavia :it:
-- Abdelhakim Dahmani, University of Science and Technology Houari Boumediene :algeria:
+- Michele Cucuzzella, University of Groningen :netherlands:
+- Abdelhakim Dahmani, University of Aalen :de:
 - Matthias Ehrhardt, Universität Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
 - Mehmet Erbay, Universität Wuppertal :de:
