@@ -77,6 +77,7 @@ author_profile: true
 - Benjamin Unger, Universität Stuttgart :de:
 - Arjan van der Schaft, University of Groningen :netherlands:
 - Matthias Voigt, UniDistance Suisse :switzerland:
+- Alexander Wierzba, Univerity of Twente :netherlands:
 - Michał Wojtylak, Jagiellonian University :poland:
 - Karl Worthmann, TU Ilmenau :de:
 - Muhammad Zakwan, EPFL Lausanne :switzerland:
