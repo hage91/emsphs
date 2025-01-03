@@ -16,6 +16,7 @@ author_profile: true
 - Peter Benner, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg :de:
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
+- Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine: 
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
