@@ -16,7 +16,8 @@ author_profile: true
 - Peter Benner, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg :de:
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
-- Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine: 
+- Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
+- Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
@@ -82,5 +83,6 @@ author_profile: true
 - Michał Wojtylak, Jagiellonian University :poland:
 - Karl Worthmann, TU Ilmenau :de:
 - Muhammad Zakwan, EPFL Lausanne :switzerland:
-- Hans Zwart, University of Twente :netherlands:
+- Falak Zentout, University Paul Sabatier :fr:
 - Lihua Zhou, University of Groningen :netherlands:
+- Hans Zwart, University of Twente :netherlands:
