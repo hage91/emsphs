@@ -52,6 +52,7 @@ author_profile: true
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
+- Bernhard Maschke, Université Claude Bernard Lyon 1 :fr: 
 - Juan E. Machado, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
