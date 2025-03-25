@@ -24,6 +24,7 @@ author_profile: true
 - Michele Cucuzzella, University of Groningen :netherlands:
 - Abdelhakim Dahmani, University of Aalen :de:
 - Matthias Ehrhardt, Universität Wuppertal :de:
+- Bouchra Elghazi, Universität Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
 - Mehmet Erbay, Universität Wuppertal :de:
 - Timm Faulwasser, TU Hamburg :de:
@@ -36,6 +37,7 @@ author_profile: true
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
 - Carsten Hartmann, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Anthony Hastir, Universität Wuppertal :de:
+- Thomas Hélie, CNRS (STMS laboratory) :fr:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
