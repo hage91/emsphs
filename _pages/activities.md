@@ -30,4 +30,5 @@ author_profile: true
  initiated by M. Fournié, G. Haine, F. Monteghetti, and X. Vasseur
 
 - [PyPHS](https://pyphs.github.io/pyphs/) A Python software (Py) dedicated to the simulation of multi-physical Port-Hamiltonian Systems (PHS) described by graph structures initiated by Antoine Falaize
+- [IDA-without-PDEs](https://github.com/PabloBorja/IDA-without-PDEs/) A collection of many port-Hamiltonian example systems as Jupyter Notebooks with illustration of control methods such as energy shaping and interconnection and damping assignment by Pablo Borja.
 
