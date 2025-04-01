@@ -28,6 +28,7 @@ author_profile: true
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
 - Mehmet Erbay, Universität Wuppertal :de:
 - Timm Faulwasser, TU Hamburg :de:
+- Anna Fischer, TU Ilmenau :de:
 - Jörg Fehr, University of Stuttgart :de:
 - Luca Furieri, EPFL Lausanne :switzerland:
 - Kene Samuel Francois-de Gannes, University of West Indies  :jamaica:
@@ -51,6 +52,7 @@ author_profile: true
 - Paul Kotyczka, TU Munich :de:
 - Jochen Glück, Universität Wuppertal :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
+- Thavamani Govindaraj, TU Ilmenau :de: 
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
