@@ -61,6 +61,7 @@ author_profile: true
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
+- Sarvin Moradi, TU Eindhoven :netherlands:
 - Riccardo Morandin, OvGU Magdeburg :de:
 - Riccardo Muradore, University of Verona :it:
 - Jonas Nicodemus, University of Stuttgart :de:
