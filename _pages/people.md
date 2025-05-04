@@ -66,6 +66,7 @@ author_profile: true
 - Riccardo Muradore, University of Verona :it:
 - Jonas Nicodemus, University of Stuttgart :de:
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
+- Hector Ramirez Estay, Valparaiso :chile:
 - Timo Reis, Technische Universität Ilmenau :de:
 - Johannes Rettberg, University of Stuttgart :de:
 - Marco Roschkowski, Universität Wuppertal :de:
