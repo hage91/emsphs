@@ -22,7 +22,7 @@ author_profile: true
 - Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Groningen :netherlands:
-- Abdelhakim Dahmani, University of Aalen :de:
+- Abdelhakim Dahmani, University of Wuppertal :de:
 - Matthias Ehrhardt, Universität Wuppertal :de:
 - Bouchra Elghazi, Universität Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
