@@ -17,12 +17,13 @@ author_profile: true
 - Thomas Berger, Universität Paderborn :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
+- Matthias Bolten, Universität Wuppertal :de:
 - Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, Universität Wuppertal :de:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Groningen :netherlands:
-- Abdelhakim Dahmani, University of Wuppertal :de:
+- Abdelhakim Dahmani, Universität Wuppertal :de:
 - Matthias Ehrhardt, Universität Wuppertal :de:
 - Bouchra Elghazi, Universität Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
@@ -39,6 +40,7 @@ author_profile: true
 - Carsten Hartmann, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Anthony Hastir, Universität Wuppertal :de:
 - Thomas Hélie, CNRS (STMS laboratory) :fr:
+- Pascal Heymoß, Universität Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
 - Birgit Jacob, Universität Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
@@ -74,6 +76,7 @@ author_profile: true
 - Barbara Rüdiger, Universität Wuppertal :de:
 - Arijit Sarkar,  Brandenburg University of Technology Cottbus-Senftenburg :de:
 - Manuel Schaller, TU Chemnitz :de:
+- Kevin Schäfers, Universität Wuppertal :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Merlin Schmitz, Universität Wuppertal :de:
 - Philipp Schulze, TU Berlin :de:
