@@ -35,6 +35,7 @@ author_profile: true
 - Kene Samuel Francois-de Gannes, University of West Indies  :jamaica:
 - Hannes Gernandt, Universität Wuppertal :de:
 - Silke Glas, University of Twente :netherlands:
+- Jochen Glück, Universität Wuppertal :de:
 - Michael Günther, Universität Wuppertal :de:
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
 - Carsten Hartmann, Brandenburg University of Technology Cottbus-Senftenberg :de:
@@ -53,7 +54,6 @@ author_profile: true
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
 - Ning Liu, FEMTO-ST, Besançon  :fr:
-- Jochen Glück, Universität Wuppertal :de:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Thavamani Govindaraj, TU Ilmenau :de: 
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
@@ -64,6 +64,7 @@ author_profile: true
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
+- Lea Sophie Meissner, Universität Wuppertal :de:
 - Sarvin Moradi, TU Eindhoven :netherlands:
 - Riccardo Morandin, OvGU Magdeburg :de:
 - Riccardo Muradore, University of Verona :it:
