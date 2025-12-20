@@ -10,8 +10,8 @@ author_profile: true
   
 
 **2026**
-- 27.04.-30.04.26 "Modeling and control of distributed parameter systems:
-the Port Hamiltonian Approach", EECI Course, Besancon :fr: given by Yann Le Gorrec and Hans Zwart 
+- 27.04.-30.04.26 [EECI Course](https://www.eeci-igsc.eu/api/download?file=program.pdf) "Modeling and control of distributed parameter systems:
+the Port Hamiltonian Approach", EECI Course, Besancon :fr: given by Yann Le Gorrec and Hans Zwart
 - 08.-12.02.2026 [18. Workshop über Mathematische Systemtheorie](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
 - 16.01. -29.03 2026, [PHS Art Exhibition "EFFORT+FLOW"](https://www.uni-wuppertal.de/en/news/detail/neue-ausstellung-in-der-kunsthalle-barmen-mathematik-und-kunst-im-austausch/) @ Kunsthalle Barmen, Wuppertal :de: CRC1701 "Port-Hamiltonian systems"
 - 11-15.01.2026, [2nd Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
