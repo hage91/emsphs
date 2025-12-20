@@ -10,7 +10,9 @@ author_profile: true
 **Courses and Seminars**
 
 - [Port-Hamiltonian Seminar](https://www.fan.uni-wuppertal.de/en/research/ph-seminar/)
-- [Port-Hamiltonian Online Course](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/) "Introduction to port-Hamiltonian systems" 
+- [Port-Hamiltonian Online Course](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/) "Introduction to port-Hamiltonian systems"
+- [EECI Course](https://www.eeci-igsc.eu/api/download?file=program.pdf) 27/04/2026-30/04/2026 "Modeling and control of distributed parameter systems:
+the Port Hamiltonian Approach", Besancon :fr: by Yann Le Gorrec and Hans Zwart
 
 **Networks**
 
