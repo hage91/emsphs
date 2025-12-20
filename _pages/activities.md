@@ -18,7 +18,7 @@ the Port Hamiltonian Approach", Besancon :fr: by Yann Le Gorrec and Hans Zwart
 - [French-Dutch-German Doctoral College](https://www.epc.ed.tum.de/en/rt/cdfa-phs/) "Port-Hamiltonian Systems: Modeling, Numerics and Control" 
  supported by the Franco-Bavarian University Cooperation Center BayFrance, 
  coordinated by P. Kotyczka, B. Maschke and J. Scherpen,
-- [Collaborative Research Center (CRC) 1701 "Port-Hamiltonian systems"](https://crc1701.uni-wuppertal.de/de/) at University of Wuppertal (Spokesperson: Birgit Jacob)
+- [Collaborative Research Center (CRC) 1701 "Port-Hamiltonian Systems"](https://crc1701.uni-wuppertal.de/de/) at University of Wuppertal (Spokesperson: Birgit Jacob)
  
 
 **Software Repositories**
