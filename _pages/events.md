@@ -8,21 +8,20 @@ author_profile: true
 
 
   
-**2024**
 
-- 16 - 18 October, :fr::netherlands::de: Doctoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
-- 9 - 13 December, [Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
-  
-**2025**
+**2026**
 
-- 9 - 13 February [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
-- 23 - 28 March, PHS Spring School Frauenchiemsee :de:,  organized by Paul Kotyczka and Bernhard Maschke
-- :fr::netherlands::de: Doctoral College Meeting in Groningen 🇳🇱 organized by Jacquelien Scherpen
 
 
 **Past events**
 
 Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
+
+- 10/2025 :fr::netherlands::de: Doctoral College Meeting in Groningen 🇳🇱 organized by Jacquelien Scherpen
+- 03/2025, PHS Spring School Frauenchiemsee :de:,  organized by Paul Kotyczka and Bernhard Maschke
+- 02/2025 [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
+- 12/2024, [Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
+- 10/2024, :fr::netherlands::de: Doctoral College Meeting @ Twente :netherlands: organized by Felix Schwenninger and Hans Zwart.
 
 - 08/2024: Invited session ``Learning and Surrogate Modeling of port-Hamiltonian Systems" organized by Manuel Schaller and Claudia Totzeck at the 26th International Symposium on Mathematical Theory of Networks and Systems, MTNS 2024, in Cambridge:uk:
 - 08/2024: Special Session "Linear Algebra and Control Theory", [International Workshop on Operator Theory and its Applications (IWOTA)](https://www.lancaster.ac.uk/maths/iwotauk2021/), Canterbury :uk: coorganized by Volker Mehrmann.
