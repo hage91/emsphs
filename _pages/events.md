@@ -10,8 +10,9 @@ author_profile: true
   
 
 **2026**
-
-
+- 02/2025 [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
+- 11-15.01.2025, [Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
+- Art Exhibition @ Kunsthalle Barmen, CRC1701 "Port-Hamiltonian systems"
 
 **Past events**
 
