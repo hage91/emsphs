@@ -14,7 +14,7 @@ author_profile: true
 - Thomas Beckers, Vanderbilt University :us:
 - Antoine Bendimerad-Hohl, ISAE-SUPAERO, Toulouse :fr:
 - Peter Benner, Max Planck Institute for Dynamics of Complex Technical Systems, Magdeburg :de:
-- Thomas Berger, Universität Paderborn :de:
+- Thomas Berger, Martin-Luther-Universität Halle-Wittenberg  :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
 - Matthias Bolten, Universität Wuppertal :de:
