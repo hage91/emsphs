@@ -20,7 +20,7 @@ author_profile: true
 - Matthias Bolten, Universität Wuppertal :de:
 - Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
 - Kanat Camlibel, University of Groningen :netherlands:
-- Karim Cherifi, Universität Wuppertal :de:
+- Karim Cherifi, FEMTO-ST, Besançon  :fr:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Groningen :netherlands:
 - Abdelhakim Dahmani, Universität Wuppertal :de:
