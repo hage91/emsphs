@@ -19,6 +19,7 @@ author_profile: true
 - Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
 - Matthias Bolten, Universität Wuppertal :de:
 - Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
+- Federico Califano, University of Twente :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, FEMTO-ST, Besançon  :fr:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
