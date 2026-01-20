@@ -73,6 +73,7 @@ author_profile: true
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
 - Hector Ramirez Estay, Valparaiso :chile:
 - Timo Reis, Technische Universität Ilmenau :de:
+- David Roze, CNRS STMS lab, Paris :fr:
 - Johannes Rettberg, University of Stuttgart :de:
 - Marco Roschkowski, Universität Wuppertal :de:
 - Barbara Rüdiger, Universität Wuppertal :de:
