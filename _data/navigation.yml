@@ -2,8 +2,6 @@
 main:
   - title: "Contact"
     url: /contact/
-  - title: "Join"
-    url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   - title: "People"
     url: /people/
   - title: "Diversity"
