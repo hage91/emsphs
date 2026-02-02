@@ -21,6 +21,9 @@ the Port Hamiltonian Approach", EECI Course, Besancon :fr: given by Yann Le Gorr
 Previously, members of the EMS-TAG have organized various events on the topic of the topical activity group, which is reflected in the incomplete list below.
 
 - 10/2025 :fr::netherlands::de: Doctoral College Meeting in Groningen 🇳🇱 organized by Jacquelien Scherpen
+- 10/2025 :fr::netherlands::de: Doctoral College Meeting in Groningen 🇳🇱 organized by Bart Besselink, Michele Cucuzzella, Jacquelien Scherpen
+- 07/2025 Minisymposium on Port-Hamiltonian Systems at the SIAM CT in Montréal :canada: organized by Karim Cherifi and Hannes Gernandt 
+- 07/2025 Minisypsium on Linear systems and control theory at the International Workshop on Operator Theory and its Applications (IWOTA) at U Twente :netherlands: organized by Hannes Gernandt and Nathanael Skrepek
 - 03/2025, PHS Spring School Frauenchiemsee :de:,  organized by Paul Kotyczka and Bernhard Maschke
 - 02/2025 [17th Elgersburg Workshop on Mathematical Systems Theory](https://www.tu-ilmenau.de/systpde/elgersburg-workshop), Bad Blankenburg :de:
 - 12/2024, [Port-Hamiltonian Symposium](https://www.fan.uni-wuppertal.de/de/introduction-to-port-hamiltonian-systems/), Wuppertal :de: organized by Hannes Gernandt, Birgit Jacob and Timo Reis
