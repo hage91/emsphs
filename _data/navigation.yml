@@ -6,6 +6,8 @@ main:
     url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   - title: "People"
     url: /people/
+  - title: "Diversity"
+    url: /diversity/
   - title: "Activities"
     url: /activities/
   - title: "Events"
