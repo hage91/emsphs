@@ -12,6 +12,8 @@ main:
     url: /events/     
   - title: "Literature"
     url: https://g-haine.github.io/phraise/
+ # - title: "Join"
+ #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   #/literature/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
