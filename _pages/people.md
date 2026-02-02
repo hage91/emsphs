@@ -85,12 +85,11 @@ author_profile: true
 - Philipp Schulze, TU Berlin :de:
 - Felix Schwenninger, University of Twente :netherlands:
 - Nathanael Skrepek, University of Twente :netherlands:
-- Vaibhav Kumar Singh, University of Groningen :netherlands:
-- Felix Strehle, Karlsruhe Intitute of Technology :de:
+- Vaibhav Kumar Singh, TU Ilmenau :de:
 - Tatjana Stykel, University of Augsburg :de:
 - Stephan Trenn, University of Groningen :netherlands:
 - Claudia Totzeck, Universität Wuppertal :de:
-- Benjamin Unger, Universität Stuttgart :de:
+- Benjamin Unger, Karlsruhe Intitute of Technology :de:
 - Arjan van der Schaft, University of Groningen :netherlands:
 - Matthias Voigt, UniDistance Suisse :switzerland:
 - Alexander Wierzba, Univerity of Twente :netherlands:
