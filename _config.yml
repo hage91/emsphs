@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dissipative and port-Hamiltonian Systems" #, Modeling, Simulation, Control, and Optimization"
+title                    : "EMS TAG Dissipative and port-Hamiltonian Systems" #, Modeling, Simulation, Control, and Optimization"
 title_separator          : "-"
 subtitle                 : Modeling, Simulation, Control, and Optimization # site tagline that appears below site title in masthead
-name                     : "EMS Activity Group Dissipative and port-Hamiltonian Systems"
+name                     : "EMS Topical Activity Group Dissipative and port-Hamiltonian Systems"
 description              : "Webpage of the EMS TAG"
 url                      : "https://hage91.github.io" # the base hostname & protocol for your site e.g. "https://hage91.github.io"
 baseurl                  : "/emsphs" # the subpath of your site, e.g. "/blog"
