@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Diversity🏳️‍🌈" 
+title: "🏳️‍🌈Diversity" 
 permalink: /diversity/
 entries_layout: grid
 author_profile: true 
