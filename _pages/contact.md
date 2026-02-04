@@ -14,13 +14,13 @@ author_profile: true
 \
 Bergische Universität Wuppertal
 \
-[IMACM](https://www.imacm.uni-wuppertal.de/en/)
+[Port-Hamiltonian Institute](https://phi.uni-wuppertal.de/en/port-hamiltonian-institute/)
 \
 Gaußstraße 20
 \
 D-42119 Wuppertal
 \
-[Webpage](https://www.fan.uni-wuppertal.de/en/staff/prof-dr-birgit-jacob/)
+[Webpage](https://www.fan.uni-wuppertal.de/de/personen/details/jacob/)
 \
 E-Mail: bjacob[at]uni-wuppertal.de
 
