@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: ":mailbox: Chairs"
-    url: /contact/
   - title: ":people_holding_hands: People"
     url: /people/
   - title: ":rainbow_flag: Diversity"
@@ -12,6 +10,8 @@ main:
     url: /events/  
   - title: "Activities"
     url: /activities/
+  # - title: ":mailbox: Chairs"
+  # url: /contact/
   # - title: "Join"
   #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   #/literature/
