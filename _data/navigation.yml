@@ -4,11 +4,11 @@ main:
     url: /contact/
   - title: "People"
     url: /people/
-  - title: ":rainbow:"
+  - title: ":rainbow_flag:"
     url: /diversity/
   - title: "Activities"
     url: /activities/
-  - title: "Events"
+  - title: ":world_map: Events"
     url: /events/     
   - title: "Literature"
     url: https://g-haine.github.io/phraise/
