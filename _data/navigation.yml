@@ -4,14 +4,14 @@ main:
     url: /contact/
   - title: ":people_holding_hands: People"
     url: /people/
-  - title: ":rainbow_flag:"
+  - title: ":rainbow_flag: Diversity"
     url: /diversity/
-  - title: "Activities"
-    url: /activities/
-  - title: ":world_map: Events"
-    url: /events/     
   - title: ":books: Literature"
     url: https://g-haine.github.io/phraise/
+  - title: ":world_map: Events"
+    url: /events/     
+ - title: "Activities"
+    url: /activities/
  # - title: "Join"
  #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   #/literature/
