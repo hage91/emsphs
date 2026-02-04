@@ -12,8 +12,8 @@ main:
     url: /events/     
  - title: "Activities"
     url: /activities/
- # - title: "Join"
- #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
+  # - title: "Join"
+  #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   #/literature/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
