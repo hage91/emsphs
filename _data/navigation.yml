@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Contact"
+  - title: ":mailbox: Contact"
     url: /contact/
-  - title: "People"
+  - title: ":people_holding_hands: People"
     url: /people/
   - title: ":rainbow_flag:"
     url: /diversity/
@@ -10,7 +10,7 @@ main:
     url: /activities/
   - title: ":world_map: Events"
     url: /events/     
-  - title: "Literature"
+  - title: ":books: Literature"
     url: https://g-haine.github.io/phraise/
  # - title: "Join"
  #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
