@@ -2,6 +2,12 @@
 main:
   - title: ":mailbox: Chairs"
     url: /contact/
+  - title: ":people_holding_hands: People"
+    url: /people/
+  - title: ":rainbow_flag: Diversity"
+    url: /diversity/
+  - title: ":books: Literature"
+    url: https://g-haine.github.io/phraise/
   # - title: "Join"
   #   url: https://fan.uni-wuppertal.de/de/registration-ems-phs/
   #/literature/
