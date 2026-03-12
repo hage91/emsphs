@@ -12,7 +12,7 @@ author_profile: true
 
 **Birgit Jacob**
 \
-Bergische Universität Wuppertal
+University of Wuppertal
 \
 [Port-Hamiltonian Institute](https://phi.uni-wuppertal.de/en/port-hamiltonian-institute/)
 \
@@ -51,41 +51,42 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Thomas Berger, Martin-Luther-Universität Halle-Wittenberg  :de:
 - Bart Besselink, University of Groningen :netherlands:
 - Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
-- Matthias Bolten, Universität Wuppertal :de:
+- Matthias Bolten, University of Wuppertal :de:
 - Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
 - Federico Califano, University of Twente :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
 - Karim Cherifi, FEMTO-ST, Besançon  :fr:
 - Salah-Eddine Chorfi, Cadi Ayyad, Marrakesh :morocco:
 - Michele Cucuzzella, University of Groningen :netherlands:
-- Abdelhakim Dahmani, Universität Wuppertal :de:
-- Matthias Ehrhardt, Universität Wuppertal :de:
-- Bouchra Elghazi, Universität Wuppertal :de:
+- Abdelhakim Dahmani, University of Wuppertal :de:
+- Matthias Ehrhardt, University of Wuppertal :de:
+- Bouchra Elghazi, University of Wuppertal :de:
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
-- Mehmet Erbay, Universität Wuppertal :de:
+- Mehmet Erbay, University of Wuppertal :de:
 - Timm Faulwasser, TU Hamburg :de:
 - Anna Fischer, TU Ilmenau :de:
 - Jörg Fehr, University of Stuttgart :de:
 - Luca Furieri, EPFL Lausanne :switzerland:
 - Kene Samuel Francois-de Gannes, University of West Indies  :jamaica:
-- Hannes Gernandt, Universität Wuppertal :de:
+- Hannes Gernandt, University of Wuppertal :de:
 - Silke Glas, University of Twente :netherlands:
-- Jochen Glück, Universität Wuppertal :de:
-- Michael Günther, Universität Wuppertal :de:
+- Jochen Glück, University of Wuppertal :de:
+- Michael Günther, University of Wuppertal :de:
 - Ghislain Haine, ISAE-SUPAERO, Toulouse :fr:
+- Daniel Jannik Happ, University of Wuppertal :de:
 - Carsten Hartmann, Brandenburg University of Technology Cottbus-Senftenberg :de:
-- Anthony Hastir, Universität Wuppertal :de:
+- Anthony Hastir, University of Wuppertal :de:
 - Thomas Hélie, CNRS (STMS laboratory) :fr:
-- Pascal Heymoß, Universität Wuppertal :de:
+- Pascal Heymoß, University of Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
-- Birgit Jacob, Universität Wuppertal :de:
+- Birgit Jacob, University of Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
 - Jonas Kirchhoff, TU Ilmenau :de:
-- Kathrin Klamroth, Universität Wuppertal :de:
+- Kathrin Klamroth, University of Wuppertal :de:
 - Marten Klein, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Boris Kramer, UC San Diego :us:
-- Thomas Kruse, Universität Wuppertal :de:
+- Thomas Kruse, University of Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
 - Ning Liu, FEMTO-ST, Besançon  :fr:
@@ -99,7 +100,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
 - Denis Matignon, ISAE-SUPAERO, Toulouse :fr:
 - Volker Mehrmann, TU Berlin :de:
-- Lea Sophie Meissner, Universität Wuppertal :de:
+- Lea Sophie Meissner, University of Wuppertal :de:
 - Sarvin Moradi, TU Eindhoven :netherlands:
 - Riccardo Morandin, OvGU Magdeburg :de:
 - Riccardo Muradore, University of Verona :it:
@@ -109,20 +110,20 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Timo Reis, Technische Universität Ilmenau :de:
 - David Roze, CNRS STMS lab, Paris :fr:
 - Johannes Rettberg, University of Stuttgart :de:
-- Marco Roschkowski, Universität Wuppertal :de:
-- Barbara Rüdiger, Universität Wuppertal :de:
+- Marco Roschkowski, University of Wuppertal :de:
+- Barbara Rüdiger, University of Wuppertal :de:
 - Arijit Sarkar,  Brandenburg University of Technology Cottbus-Senftenburg :de:
 - Manuel Schaller, TU Chemnitz :de:
-- Kevin Schäfers, Universität Wuppertal :de:
+- Kevin Schäfers, University of Wuppertal :de:
 - Johannes Schiffer, Brandenburg University of Technology Cottbus-Senftenberg :de:
-- Merlin Schmitz, Universität Wuppertal :de:
+- Merlin Schmitz, University of Wuppertal :de:
 - Philipp Schulze, TU Berlin :de:
 - Felix Schwenninger, University of Twente :netherlands:
 - Nathanael Skrepek, University of Twente :netherlands:
 - Vaibhav Kumar Singh, TU Ilmenau :de:
 - Tatjana Stykel, University of Augsburg :de:
 - Stephan Trenn, University of Groningen :netherlands:
-- Claudia Totzeck, Universität Wuppertal :de:
+- Claudia Totzeck, University of Wuppertal :de:
 - Benjamin Unger, Karlsruhe Intitute of Technology :de:
 - Arjan van der Schaft, University of Groningen :netherlands:
 - Matthias Voigt, UniDistance Suisse :switzerland:
