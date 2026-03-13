@@ -91,10 +91,12 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Paul Kotyczka, TU Munich :de:
 - Ning Liu, FEMTO-ST, Besançon  :fr:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
-- Thavamani Govindaraj, TU Ilmenau :de: 
+- Thavamani Govindaraj, TU Ilmenau :de:
+- Lukas Lautwein, Trier University :de:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
+- Nicole Marheineke, Trier University :de:
 - Bernhard Maschke, Université Claude Bernard Lyon 1 :fr: 
 - Juan E. Machado, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Lahcen Maniar, Cadi Ayyad, Marrakesh :morocco:
