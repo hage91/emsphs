@@ -92,7 +92,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Ning Liu, FEMTO-ST, Besançon  :fr:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
 - Thavamani Govindaraj, TU Ilmenau :de:
-- Lukas Lautwein, Trier University :de:
+- Lucas Lautwein, Trier University :de:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
