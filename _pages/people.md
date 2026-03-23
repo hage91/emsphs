@@ -79,6 +79,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Thomas Hélie, CNRS (STMS laboratory) :fr:
 - Pascal Heymoß, University of Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
+- Sören Hohmann, Karlsruhe Intitute of Technology :de:
 - Birgit Jacob, University of Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
