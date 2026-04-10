@@ -79,7 +79,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Thomas Hélie, CNRS (STMS laboratory) :fr:
 - Pascal Heymoß, University of Wuppertal :de:
 - Dorothea Hinsen, TU Berlin :de:
-- Sören Hohmann, Karlsruhe Intitute of Technology :de:
+- Sören Hohmann, Karlsruhe Intitute of Technology (KIT) :de:
 - Birgit Jacob, University of Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
@@ -97,6 +97,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
 - Maximino Linares, Sorbonne Université, IRCAM :fr:
 - Markus Lohmayer, FAU Erlangen-Nürnberg :de:
+- Nicholas Lüer, University of Stuttgart :de:
 - Nicole Marheineke, Trier University :de:
 - Bernhard Maschke, Université Claude Bernard Lyon 1 :fr: 
 - Juan E. Machado, Brandenburg University of Technology Cottbus-Senftenberg :de:
@@ -107,7 +108,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Sarvin Moradi, TU Eindhoven :netherlands:
 - Riccardo Morandin, OvGU Magdeburg :de:
 - Riccardo Muradore, University of Verona :it:
-- Jonas Nicodemus, University of Stuttgart :de:
+- Jonas Nicodemus, Karlsruhe Institute of Technology (KIT) :de:
 - Ahlam Ouardi, Mohammed VI Polytechnic University, Ben Guerir :morocco:
 - Hector Ramirez Estay, Valparaiso :chile:
 - Timo Reis, Technische Universität Ilmenau :de:
