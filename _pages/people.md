@@ -52,6 +52,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Bart Besselink, University of Groningen :netherlands:
 - Dmytro Bobyliev, Kryvyi Rih State Pedagogical University :ukraine:
 - Matthias Bolten, University of Wuppertal :de:
+- Pirmin Breisacher, Karlsruhe Institute of Technology (KIT) :de:
 - Andrea Brugnoli, ISAE-SUPAERO, Toulouse :fr:
 - Federico Califano, University of Twente :netherlands:
 - Kanat Camlibel, University of Groningen :netherlands:
