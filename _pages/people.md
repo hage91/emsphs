@@ -62,6 +62,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Abdelhakim Dahmani, University of Wuppertal :de:
 - Matthias Ehrhardt, University of Wuppertal :de:
 - Bouchra Elghazi, University of Wuppertal :de:
+- Ikram El Haskouki, Hassan II University of Casablanca :morocco:  
 - Issam El Kadiri, Institut National Polytechnique de Toulouse :fr:
 - Mehmet Erbay, University of Wuppertal :de:
 - Timm Faulwasser, TU Hamburg :de:
