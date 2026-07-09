@@ -85,7 +85,7 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Birgit Jacob, University of Wuppertal :de:
 - Najmeh Javanmardi, University of Groningen :netherlands:
 - Philipp Kinon, Karlsruhe Institute of Technology (KIT) :de:
-- Jonas Kirchhoff, TU Ilmenau :de:
+- Jonas Kirchhoff, Martin-Luther-Universität Halle-Wittenberg :de:
 - Kathrin Klamroth, University of Wuppertal :de:
 - Marten Klein, Brandenburg University of Technology Cottbus-Senftenberg :de:
 - Boris Kramer, UC San Diego :us:
