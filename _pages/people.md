@@ -92,8 +92,9 @@ E-Mail: denis.matignon[at]isae-supaero.fr
 - Thomas Kruse, University of Wuppertal :de:
 - Mikael Kurula, Abo Akademi University Turku :finland:
 - Paul Kotyczka, TU Munich :de:
-- Ning Liu, FEMTO-ST, Besançon  :fr:
+- Tayeb Larhmaid, Hassan II University of Casablanca, Morocco :morocco:
 - Yann Le Gorrec, Supmicrotech Besançon, FEMTO-ST :fr:
+- Ning Liu, FEMTO-ST, Besançon  :fr:
 - Thavamani Govindaraj, TU Ilmenau :de:
 - Lucas Lautwein, Trier University :de:
 - Laurent Lefèvre, Université Grenoble Alpes :fr:
